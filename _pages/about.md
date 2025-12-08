@@ -34,28 +34,28 @@ Experiences
 
 Publications
 ======
-- ContextLeak: Auditing Leakage in Private In-Context Learning Methods.
-The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.
-Jacob Choi, Shuying Cao, Xingjian Dong, Sai Praneeth Karimireddy
-[paper](https://openreview.net/forum?id=IwSJz7y7Pg)[poster](https://drive.google.com/file/d/1DZ4XrO2TJH_KoUesYhYTq4VWNVKZemzr/view?usp=sharing)
+- ContextLeak: Auditing Leakage in Private In-Context Learning Methods.  
+  The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.  
+  Jacob Choi, Shuying Cao, Xingjian Dong, Sai Praneeth Karimireddy  
+  [paper](https://openreview.net/forum?id=IwSJz7y7Pg) [poster](https://drive.google.com/file/d/1DZ4XrO2TJH_KoUesYhYTq4VWNVKZemzr/view?usp=sharing)
 
-- Auditing Privacy-Preserving In-Context Learning Methods.
-[L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization, ACL 2025.
-Jacob Choi*, Shuying Cao*, Xingjian Dong*, Sai Praneeth Karimireddy
+- Auditing Privacy-Preserving In-Context Learning Methods.  
+  [L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization, ACL 2025.  
+  Jacob Choi*, Shuying Cao*, Xingjian Dong*, Sai Praneeth Karimireddy
 
-- What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models .
-Information, 2024. Jeongrok Yu, Seong Ug Kim, **Jacob Choi**, Jinho Choi. 
-[Project](https://www.emorynlp.org/publications/information-2024-yu-et-al)[Poster](https://drive.google.com/file/d/1lxBPHqRSwhzm35BoUtLp4v_6glMyIi7B/view)[Slides](https://drive.google.com/file/d/1nk8TxBU5HL1P64IHRDTcZwEzFgUDnieC/view)
+- What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models.  
+  Information, 2024. Jeongrok Yu, Seong Ug Kim, **Jacob Choi**, Jinho Choi.  
+  [Project](https://www.emorynlp.org/publications/information-2024-yu-et-al) [Poster](https://drive.google.com/file/d/1lxBPHqRSwhzm35BoUtLp4v_6glMyIi7B/view) [Slides](https://drive.google.com/file/d/1nk8TxBU5HL1P64IHRDTcZwEzFgUDnieC/view)
 
 Posters, Projects, and Presentations
 ======
-- Large Language Models With Religious Text. 
-SouthNLP, 2024. Jacob Choi, Jinho Choi. 
-[paper](https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-38.pdf)[poster](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-38.pdf)
+- Large Language Models With Religious Text.  
+  SouthNLP, 2024. Jacob Choi, Jinho Choi.  
+  [paper](https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-38.pdf) [poster](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-38.pdf)
 
-- Latent Separability of Backdoor Attacks on Language Models
-2023. Jacob Choi, [Jugal Kalita](https://faculty.uccs.edu/jkalita/).
-[paper](https://faculty.uccs.edu/jkalita/wp-content/uploads/sites/45/2024/02/00-Proceedings2023Optimized.pdf) [slides](https://drive.google.com/file/d/1dNeyhNZ7mYdW3IfhdS71_qF-R0O4MT7V/view?usp=sharing)
+- Latent Separability of Backdoor Attacks on Language Models  
+  2023. Jacob Choi, [Jugal Kalita](https://faculty.uccs.edu/jkalita/).  
+  [paper](https://faculty.uccs.edu/jkalita/wp-content/uploads/sites/45/2024/02/00-Proceedings2023Optimized.pdf) [slides](https://drive.google.com/file/d/1dNeyhNZ7mYdW3IfhdS71_qF-R0O4MT7V/view?usp=sharing)
 
 Awards
 ======
