@@ -41,7 +41,7 @@ Publications
 
 - Auditing Privacy-Preserving In-Context Learning Methods.  
   [L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization, ACL 2025.  
-  Jacob Choi*, Shuying Cao*, Xingjian Dong*, Sai Praneeth Karimireddy
+  Jacob Choi\*, Shuying Cao\*, Xingjian Dong\*, Sai Praneeth Karimireddy
 
 - What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models.  
   Information, 2024. Jeongrok Yu, Seong Ug Kim, **Jacob Choi**, Jinho Choi.  
