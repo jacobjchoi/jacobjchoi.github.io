@@ -54,7 +54,7 @@ Posters, Projects, and Presentations
   [paper](https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-38.pdf) [poster](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-38.pdf)
 
 - Latent Separability of Backdoor Attacks on Language Models  
-  2023. Jacob Choi, [Jugal Kalita](https://faculty.uccs.edu/jkalita/).  
+  UCCS REU Symposium, 2023. Jacob Choi, [Jugal Kalita](https://faculty.uccs.edu/jkalita/).  
   [paper](https://faculty.uccs.edu/jkalita/wp-content/uploads/sites/45/2024/02/00-Proceedings2023Optimized.pdf) [slides](https://drive.google.com/file/d/1dNeyhNZ7mYdW3IfhdS71_qF-R0O4MT7V/view?usp=sharing)
 
 Awards
