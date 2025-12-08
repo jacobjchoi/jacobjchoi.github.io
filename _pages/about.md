@@ -8,39 +8,68 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently at [Viterbi School of Engineering](https://viterbischool.usc.edu/) at USC pursuing my MSCS.
+Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working closely with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborating with [Robin Jia](https://robinjia.github.io/). 
 
-May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
+During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored religious applications of conversational AI. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project.
 
-During my undergrad, I was advised by [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored religious applications of conversational AI through faith-based queries. You can find more about my interests and research experience in my [CV](https://jacobxchoi.github.io/jacob//files/Jacob_Google_CV.pdf)!
+Research Interests
+======
+I'm currently working in trustworthy ML, particularly with private in-context learning. I'm also interested in private synthetic data generation methods in a textual and multi-modal setting. 
+
+On a broader scale, I'm interested in transparency in AI, and particularly from a data-centric standpoint. I'm curious about biases in data, as well as adversarially perturbing data and seeing how these affect AI behavior. 
+
+News
+======
+- June 2025: Our two workshop papers, "Auditing Privacy-Preserving In-Context Learning Methods." was accepted at L2M2, ACL, and "ContextLeak: Auditing Leakage in Private In-Context Learning Methods." was published at MemFM, ICML! 
+- September 2024: Our paper, What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models, was published at Information!
+- Aug 2024: Started my MSCS at USC! ✌️
+- May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
+- Aug 2023: Completed my REU at University of Colorado, Colorado Springs with [Jugal Kalita](https://faculty.uccs.edu/jkalita/).
 
 Experiences
 ======
-[Visiting Researcher](https://faculty.uccs.edu/jkalita/reu-site-advances-in-natural-language-processing/), University of Colorado at Colorado Springs, Colorado Springs. 05/2023 - 08/2023
+- Graduate Student Researcher, Foundations of Robust And Trustworthy (FORT) ML, USC, 01/2025 - Present
+- Undergraduate Student Researcher, [Emory NLP](https://www.emorynlp.org/bachelors/jacob-choi). 08/2023 - 08/2024
+- [Visiting Researcher](https://faculty.uccs.edu/jkalita/reu-site-advances-in-natural-language-processing/), University of Colorado at Colorado Springs, Colorado Springs. 05/2023 - 08/2023
 
 Publications
 ======
-What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models 
-MDPI 2024. Jeongrok Yu, Seong Ug Kim, Jacob Choi, Jinho Choi. 
-[Print](https://www.mdpi.com/2078-2489/15/9/549)
+- ContextLeak: Auditing Leakage in Private In-Context Learning Methods.
+The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.
+Jacob Choi, Shuying Cao, Xingjian Dong, Sai Praneeth Karimireddy
+[paper](https://openreview.net/forum?id=IwSJz7y7Pg)[poster](https://drive.google.com/file/d/1DZ4XrO2TJH_KoUesYhYTq4VWNVKZemzr/view?usp=sharing)
+
+- Auditing Privacy-Preserving In-Context Learning Methods.
+[L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization, ACL 2025.
+Jacob Choi*, Shuying Cao*, Xingjian Dong*, Sai Praneeth Karimireddy
+
+- What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models .
+Information, 2024. Jeongrok Yu, Seong Ug Kim, **Jacob Choi**, Jinho Choi. 
+[Project](https://www.emorynlp.org/publications/information-2024-yu-et-al)[Poster](https://drive.google.com/file/d/1lxBPHqRSwhzm35BoUtLp4v_6glMyIi7B/view)[Slides](https://drive.google.com/file/d/1nk8TxBU5HL1P64IHRDTcZwEzFgUDnieC/view)
+
+Posters, Projects, and Presentations
+======
+- Large Language Models With Religious Text. 
+SouthNLP, 2024. Jacob Choi, Jinho Choi. 
+[paper](https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-38.pdf)[poster](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-38.pdf)
+
+- Latent Separability of Backdoor Attacks on Language Models
+2023. Jacob Choi, [Jugal Kalita](https://faculty.uccs.edu/jkalita/).
+[paper](https://faculty.uccs.edu/jkalita/wp-content/uploads/sites/45/2024/02/00-Proceedings2023Optimized.pdf) [slides](https://drive.google.com/file/d/1dNeyhNZ7mYdW3IfhdS71_qF-R0O4MT7V/view?usp=sharing)
 
 Awards
 ======
-Feb 2024: [Davinci Talks](https://ila.emory.edu/ideas/ideas-week.html) Finalist
+- Feb 2024: [Davinci Talks](https://ila.emory.edu/ideas/ideas-week.html) Finalist
+- Fall 2022, 2023: Deans List
+- Fall 2020: HackEmory "Hello, World!" Virtual Mini [Hackathon](https://www.facebook.com/groups/HackEmory/permalink/3246237688818065/) **Second Place** 
+- Fall 2019 - Mar 2020: [CBYX](https://usagermanyscholarship.org/) Scholar
 
-Fall 2022/2023: Deans List
-
-Fall 2020: HackEmory Hackathon Second Place 
-
-Fall 2019 - Mar 2020: [CBYX](https://usagermanyscholarship.org/) Scholar
-
-Writing
+Misc. Writing
 ======
+During my undergrad, I served as treasurer and wrote for [Emory In Via](https://emoryinvia.wixsite.com/my-site)'s Journal of Christian Thought ([Augustine Collective](https://www.veritas.org/augustine-collective)), where you can find blog posts, poems, songs, and personal/academic pieces written by students that relate to faith. Here are some of my pieces:
 
-During my undergrad, I wrote for Emory In Via's Journal of Christian Thought. Here you can find blog posts, poems, songs, and personal/academic pieces written by students that relate to faith. Here are some of my pieces:
-
-[Poem](https://emoryinvia.wixsite.com/my-site/post/ern%C3%A4hrt-%C3%BCberzeugung)
-[Personal Essay](https://issuu.com/emoryinvia/docs/re-final/22)
+- [Poem](https://emoryinvia.wixsite.com/my-site/post/ern%C3%A4hrt-%C3%BCberzeugung)
+- [Personal Essay](https://issuu.com/emoryinvia/docs/re-final/22)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
