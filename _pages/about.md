@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working closely with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborating with [Robin Jia](https://robinjia.github.io/). 
+Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working closely with [Sai Praneeth Karimireddy](https://spkreddy.org/). 
 
 During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored religious applications of conversational AI. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project.
 
