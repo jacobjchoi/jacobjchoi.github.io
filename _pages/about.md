@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working closely with [Sai Praneeth Karimireddy](https://spkreddy.org/). 
+Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working closely with [Sai Praneeth Karimireddy](https://spkreddy.org/) on privacy and LLMs. 
 
-During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored religious applications of conversational AI. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project.
+During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project.
 
 Research Interests
 ======
-I'm currently working in trustworthy ML, particularly with private in-context learning. I'm also interested in private synthetic data generation methods in a textual and multi-modal setting. 
+<!-- I am broadly interested in developing trustworthy AI, and my research experience particularly hinges on privacy and safety. I would like to better understand transparency in AI, particularly from a data-centric standpoint. I'm also curious about biases in data, as well as adversarially perturbing data and seeing how these affect AI behavior.  -->
 
-On a broader scale, I'm interested in transparency in AI, and particularly from a data-centric standpoint. I'm curious about biases in data, as well as adversarially perturbing data and seeing how these affect AI behavior. 
+I am interested in developing trustworthy AI through a data-centric lens, where I've explored adversarial attacks, biases, and privacy.
 
 News
 ======
-- June 2025: Our two workshop papers, "Auditing Privacy-Preserving In-Context Learning Methods." was accepted at L2M2, ACL, and "ContextLeak: Auditing Leakage in Private In-Context Learning Methods." was published at MemFM, ICML! 
+- Dec 2025: Also check out our [preprint](https://arxiv.org/abs/2512.16059)!
+- Jun 2025: Our two workshop papers, "Auditing Privacy-Preserving In-Context Learning Methods." was accepted at L2M2 Workshop @ ACL, and "ContextLeak: Auditing Leakage in Private In-Context Learning Methods." was published at MemFM Workshop @ ICML! 
 - September 2024: Our paper, What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models, was published at Information!
 - Aug 2024: Started my MSCS at USC! ✌️
 - May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
@@ -32,22 +33,23 @@ Experiences
 - Undergraduate Student Researcher, [Emory NLP](https://www.emorynlp.org/bachelors/jacob-choi). 08/2023 - 08/2024
 - [Visiting Researcher](https://faculty.uccs.edu/jkalita/reu-site-advances-in-natural-language-processing/), University of Colorado at Colorado Springs, Colorado Springs. 05/2023 - 08/2023
 
-Publications
+Papers
 ======
 - ContextLeak: Auditing Leakage in Private In-Context Learning Methods.  
-  The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.  
+  The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.
   Jacob Choi, Shuying Cao, Xingjian Dong, Sai Praneeth Karimireddy  
   [paper](https://openreview.net/forum?id=IwSJz7y7Pg) [poster](https://drive.google.com/file/d/1DZ4XrO2TJH_KoUesYhYTq4VWNVKZemzr/view?usp=sharing)
 
 - Auditing Privacy-Preserving In-Context Learning Methods.  
-  [L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization, ACL 2025.  
+  [L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization, ACL 2025.
   Jacob Choi\*, Shuying Cao\*, Xingjian Dong\*, Sai Praneeth Karimireddy
 
 - What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models.  
-  Information, 2024. Jeongrok Yu, Seong Ug Kim, **Jacob Choi**, Jinho Choi.  
+  Information, 2024.
+  Jeongrok Yu, Seong Ug Kim, **Jacob Choi**, Jinho Choi.  
   [Project](https://www.emorynlp.org/publications/information-2024-yu-et-al) [Poster](https://drive.google.com/file/d/1lxBPHqRSwhzm35BoUtLp4v_6glMyIi7B/view) [Slides](https://drive.google.com/file/d/1nk8TxBU5HL1P64IHRDTcZwEzFgUDnieC/view)
 
-Posters, Projects, and Presentations
+Additional Projects
 ======
 - Large Language Models With Religious Text.  
   SouthNLP, 2024. Jacob Choi, Jinho Choi.  
