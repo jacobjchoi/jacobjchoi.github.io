@@ -22,12 +22,12 @@ News
 ======
 - Dec 2025: Also check out our [preprint](https://arxiv.org/abs/2512.16059)!
 - Jun 2025: Our two workshop papers, "Auditing Privacy-Preserving In-Context Learning Methods." was accepted at L2M2 Workshop @ ACL, and "ContextLeak: Auditing Leakage in Private In-Context Learning Methods." was published at MemFM Workshop @ ICML! 
-- September 2024: Our paper, What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models, was published at Information!
+- Sep 2024: Our paper, What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models, was published at Information!
 - Aug 2024: Started my MSCS at USC! ✌️
 - May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
 - Aug 2023: Completed my REU at University of Colorado, Colorado Springs with [Jugal Kalita](https://faculty.uccs.edu/jkalita/).
 
-Experiences
+Research Experience
 ======
 - Graduate Student Researcher, Foundations of Robust And Trustworthy (FORT) ML, USC, 01/2025 - Present
 - Undergraduate Student Researcher, [Emory NLP](https://www.emorynlp.org/bachelors/jacob-choi). 08/2023 - 08/2024
