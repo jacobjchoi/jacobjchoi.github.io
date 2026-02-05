@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working closely with [Sai Praneeth Karimireddy](https://spkreddy.org/) on privacy and LLMs. 
+Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I work with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborate with [Robin Jia](https://robinjia.github.io/) on privacy and LLMs. 
 
-During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project.
+During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/), where I was introduced to ML research with healthcare applications. 
 
 Research Interests
 ======
@@ -52,7 +52,7 @@ Papers
 Additional Projects
 ======
 - Large Language Models With Religious Text.  
-  SouthNLP, 2024. Jacob Choi, Jinho Choi.  
+  SouthNLP Symposium, 2024. Jacob Choi, Jinho Choi.  
   [paper](https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-38.pdf) [poster](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-38.pdf)
 
 - Latent Separability of Backdoor Attacks on Language Models  
@@ -64,7 +64,7 @@ Awards
 - Feb 2024: [Davinci Talks](https://ila.emory.edu/ideas/ideas-week.html) Finalist
 - Fall 2022, 2023: Deans List
 - Fall 2020: HackEmory "Hello, World!" Virtual Mini [Hackathon](https://www.facebook.com/groups/HackEmory/permalink/3246237688818065/) **Second Place** 
-- Fall 2019 - Mar 2020: [CBYX](https://usagermanyscholarship.org/) Scholar
+- Fall 2019 - Mar 2020: [Congress Bundestag Youth Exchange (CBYX)](https://usagermanyscholarship.org/) Scholar
 
 Misc. Writing
 ======
