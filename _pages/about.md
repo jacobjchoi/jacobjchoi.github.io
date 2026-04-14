@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I work with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborate with [Robin Jia](https://robinjia.github.io/) on privacy and LLMs. 
+Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I work with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborate with [Robin Jia](https://robinjia.github.io/) on privacy and LLMs.
 
 During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/), where I was introduced to ML research with healthcare applications. 
 
