@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I work with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborate with [Robin Jia](https://robinjia.github.io/) on privacy and LLMs.
+Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working with [Sai Praneeth Karimireddy](https://spkreddy.org/). I also collaborated with [Robin Jia](https://robinjia.github.io/).
 
-During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/), where I was introduced to ML research with healthcare applications. 
+During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/) on ML and healthcare.
 
 Research Interests
 ======
 <!-- I am broadly interested in developing trustworthy AI, and my research experience particularly hinges on privacy and safety. I would like to better understand transparency in AI, particularly from a data-centric standpoint. I'm also curious about biases in data, as well as adversarially perturbing data and seeing how these affect AI behavior.  -->
 
-I am interested in developing trustworthy AI through a data-centric lens, where I've explored adversarial attacks, biases, and privacy.
+I am broadly interested in developing trustworthy AI through a data-centric lens, where I've explored adversarial attacks, biases, and privacy. I'm currently thinking about improving diversity of outputs in LLMs and understanding causes of mode-collapse.
 
 News
 ======
