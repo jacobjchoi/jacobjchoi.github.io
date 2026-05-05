@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working with [Sai Praneeth Karimireddy](https://spkreddy.org/). I also collaborated with [Robin Jia](https://robinjia.github.io/).
+Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working with [Sai Praneeth Karimireddy](https://spkreddy.org/). I've also collaborated with [Robin Jia](https://robinjia.github.io/).
 
 During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/) on ML and healthcare.
 
@@ -20,11 +20,12 @@ I am broadly interested in developing trustworthy AI through a data-centric lens
 
 News
 ======
+- Apr 2026: I've committed to starting my CS PhD in Fall 2026 at Stony Brook! 🥳
 - Dec 2025: Also check out our [preprint](https://arxiv.org/abs/2512.16059)!
 - Jun 2025: Our two workshop papers, "Auditing Privacy-Preserving In-Context Learning Methods." was accepted at L2M2 Workshop @ ACL, and "ContextLeak: Auditing Leakage in Private In-Context Learning Methods." was published at MemFM Workshop @ ICML! 
 - Sep 2024: Our paper, What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models, was published at Information!
 - Aug 2024: Started my MSCS at USC! ✌️
-- May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🥳
+- May 2024: I graduated from [Emory College of Arts and Science](https://college.emory.edu/main/index.html) with a B.S. in Computer Science with Highest Honors and with a minor in German studies! 🦅
 - Aug 2023: Completed my REU at University of Colorado, Colorado Springs with [Jugal Kalita](https://faculty.uccs.edu/jkalita/).
 
 Research Experience
