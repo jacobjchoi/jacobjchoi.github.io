@@ -8,20 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Present: Currently a second-year at [Viterbi School of Engineering](https://viterbischool.usc.edu/), USC pursuing my MSCS, where I'm working with [Sai Praneeth Karimireddy](https://spkreddy.org/). I've also collaborated with [Robin Jia](https://robinjia.github.io/).
+Present: Incoming CS PhD at [Stony Brook University](https://www.cs.stonybrook.edu/).
 
-During my undergrad, I worked with [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/) on ML and healthcare.
+Previously: Graduated from the [Viterbi School of Engineering](https://viterbischool.usc.edu/) at USC for my MSCS, where I worked with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborated with [Robin Jia](https://robinjia.github.io/).
+
+During my undergrad, I was advised by [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/) on ML and healthcare.
 
 Research Interests
 ======
 <!-- I am broadly interested in developing trustworthy AI, and my research experience particularly hinges on privacy and safety. I would like to better understand transparency in AI, particularly from a data-centric standpoint. I'm also curious about biases in data, as well as adversarially perturbing data and seeing how these affect AI behavior.  -->
 
-I am broadly interested in developing trustworthy AI through a data-centric lens, where I've explored adversarial attacks, biases, and privacy. I'm currently thinking about improving diversity of outputs in LLMs and understanding causes of mode-collapse.
+I am broadly interested in developing trustworthy AI through a data-centric lens, where I've explored adversarial attacks, biases, and privacy. I'm currently thinking about improving diversity of outputs in LLMs and understanding causes of [mode-collapse](https://en.wikipedia.org/wiki/Mode_collapse).
 
 News
 ======
+- July 2026: ContextLeak has been accepted to COLM 2026. Excited for SF!
 - Apr 2026: I've committed to starting my CS PhD in Fall 2026 at Stony Brook! 🥳
-- Dec 2025: Also check out our [preprint](https://arxiv.org/abs/2512.16059)!
+- Dec 2025: Also check out our ContextLeak [preprint](https://arxiv.org/abs/2512.16059)!
 - Jun 2025: Our two workshop papers, "Auditing Privacy-Preserving In-Context Learning Methods." was accepted at L2M2 Workshop @ ACL, and "ContextLeak: Auditing Leakage in Private In-Context Learning Methods." was published at MemFM Workshop @ ICML! 
 - Sep 2024: Our paper, What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models, was published at Information!
 - Aug 2024: Started my MSCS at USC! ✌️
@@ -30,15 +33,17 @@ News
 
 Research Experience
 ======
-- Graduate Student Researcher, Foundations of Robust And Trustworthy (FORT) ML, USC, 01/2025 - Present
+- Graduate Student Researcher, Foundations of Robust And Trustworthy (FORT) ML, USC, 01/2025 - 05/2026
 - Undergraduate Student Researcher, [Emory NLP](https://www.emorynlp.org/bachelors/jacob-choi). 08/2023 - 08/2024
 - [Visiting Researcher](https://faculty.uccs.edu/jkalita/reu-site-advances-in-natural-language-processing/), University of Colorado at Colorado Springs, Colorado Springs. 05/2023 - 08/2023
 
 Papers
 ======
-- ContextLeak: Auditing Leakage in Private In-Context Learning Methods.  
-  The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.
-  Jacob Choi, Shuying Cao, Xingjian Dong, Sai Praneeth Karimireddy  
+- ContextLeak: Auditing Leakage in Private In-Context Learning Methods.
+  COLM 2026 
+  Jacob Choi*, Shuying Cao*, Xingjian Dong*, Amin Banayeeanzade, Wang Bill Zhu, Robin Jia, Sai Praneeth Karimireddy
+
+  The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.  
   [paper](https://openreview.net/forum?id=IwSJz7y7Pg) [poster](https://drive.google.com/file/d/1DZ4XrO2TJH_KoUesYhYTq4VWNVKZemzr/view?usp=sharing)
 
 - Auditing Privacy-Preserving In-Context Learning Methods.  
