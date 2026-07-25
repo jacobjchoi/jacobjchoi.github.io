@@ -42,7 +42,7 @@ Papers
 - ContextLeak: Auditing Leakage in Private In-Context Learning Methods.  
   COLM 2026  
   ICML Workshop 2025 - The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/))  
-  Jacob Choi*, Shuying Cao*, Xingjian Dong*, Amin Banayeeanzade, Wang Bill Zhu, Robin Jia, Sai Praneeth Karimireddy  
+  Jacob Choi\*, Shuying Cao\*, Xingjian Dong\*, Amin Banayeeanzade, Wang Bill Zhu, Robin Jia, Sai Praneeth Karimireddy  
   [paper](https://openreview.net/forum?id=IwSJz7y7Pg); [poster](https://drive.google.com/file/d/1DZ4XrO2TJH_KoUesYhYTq4VWNVKZemzr/view?usp=sharing)
 
 - Auditing Privacy-Preserving In-Context Learning Methods.  
