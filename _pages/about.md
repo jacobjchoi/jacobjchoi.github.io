@@ -39,15 +39,17 @@ Research Experience
 
 Papers
 ======
-- ContextLeak: Auditing Leakage in Private In-Context Learning Methods.
-  COLM 2026 
+- ContextLeak: Auditing Leakage in Private In-Context Learning Methods.  
+  COLM 2026  
   Jacob Choi*, Shuying Cao*, Xingjian Dong*, Amin Banayeeanzade, Wang Bill Zhu, Robin Jia, Sai Praneeth Karimireddy
 
-  The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/)), ICML 2025.  
+  The Impact of Memorization on Trustworthy Foundation Models ([MemFM](https://icml2025memfm.github.io/))  
+  ICML 2025  
   [paper](https://openreview.net/forum?id=IwSJz7y7Pg); [poster](https://drive.google.com/file/d/1DZ4XrO2TJH_KoUesYhYTq4VWNVKZemzr/view?usp=sharing)
 
 - Auditing Privacy-Preserving In-Context Learning Methods.  
-  [L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization, ACL 2025.
+  [L2M2](https://sites.google.com/view/memorization-workshop): The First Workshop on Large Language Model Memorization  
+  ACL 2025  
   Jacob Choi\*, Shuying Cao\*, Xingjian Dong\*, Sai Praneeth Karimireddy
 
 - What is Your Favorite Gender, MLM? Gender Bias Evaluation in Multilingual Masked Language Models.  
