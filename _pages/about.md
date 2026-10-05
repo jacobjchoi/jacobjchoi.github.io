@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Present: Incoming CS PhD at [Stony Brook University](https://www.cs.stonybrook.edu/).
+Present: First year CS PhD at [Stony Brook University](https://www.cs.stonybrook.edu/), working under [Tuhin Chakrabarty](https://tuhinjubcse.github.io/).
 
 Previously: Graduated from the [Viterbi School of Engineering](https://viterbischool.usc.edu/) at USC for my MSCS, where I worked with [Sai Praneeth Karimireddy](https://spkreddy.org/) and collaborated with [Robin Jia](https://robinjia.github.io/).
 
 During my undergrad, I was advised by [Dr. Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi) at [Emory NLP](https://www.emorynlp.org/), and I explored Biblical dialogue with LLMs. [Here](https://www.emorynlp.org/theses-dissertations/honors-thesis-2024-jacob-choi) is an overview of this project. I also spent time auditing [Carl Yang](https://www.cs.emory.edu/~jyang71/)'s lab with additional guidance from [Jiaying Lu](https://lujiaying.github.io/) on ML and healthcare.
 
-Research Interests
-======
+<!-- Research Interests
+====== -->
 <!-- I am broadly interested in developing trustworthy AI, and my research experience particularly hinges on privacy and safety. I would like to better understand transparency in AI, particularly from a data-centric standpoint. I'm also curious about biases in data, as well as adversarially perturbing data and seeing how these affect AI behavior.  -->
 
-I am broadly interested in developing trustworthy AI through a data-centric lens, where I've explored adversarial attacks, biases, and privacy. I'm currently thinking about improving diversity of outputs in LLMs and understanding causes of [mode-collapse](https://en.wikipedia.org/wiki/Mode_collapse).
+<!-- I am broadly interested in developing trustworthy AI through a data-centric lens, where I've explored adversarial attacks, biases, and privacy. Currently working on AI disclosure. -->
+
+<!-- I'm currently thinking about improving diversity of outputs in LLMs and understanding causes of [mode-collapse](https://en.wikipedia.org/wiki/Mode_collapse). -->
 
 News
 ======
@@ -77,6 +79,10 @@ During my undergrad, I served as treasurer and wrote for [Emory In Via](https://
 
 - [Poem](https://emoryinvia.wixsite.com/my-site/post/ern%C3%A4hrt-%C3%BCberzeugung)
 - [Personal Essay](https://issuu.com/emoryinvia/docs/re-final/22)
+
+Other Misc. Interests
+======
+Outside of research, I enjoy grabbing food with friends, running (very slowly), and occasionally bouldering. I previously (many years ago) competed in [Abacus/Flash Mental Math and Dictation](https://caaa-abacus.org/act/test_26/Program.pdf), as well as Chinese Brush Painting (Finalist - [2017](https://www.chineseperformingarts.net/contents/competition/painting/2017/index.htm), [2016](https://www.chineseperformingarts.net/contents/competition/painting/2016/index.htm), Honors - [2014](https://www.chineseperformingarts.net/contents/competition/painting/2014/index.htm)). 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
