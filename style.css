@@ -77,16 +77,6 @@ h1 {
   line-height: 1.2;
 }
 
-h1 a {
-  color: var(--text);
-  border: none;
-}
-
-h1 a:hover {
-  color: var(--accent);
-  background: none;
-}
-
 nav {
   display: flex;
   flex-wrap: wrap;
